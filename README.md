@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Next.js AI
 - 📫 How to reach me: https://bai.tools
 - 😄 Product: https://aimusic.one 
-- ⚡ Product: https://aifaceswap.ai
 - ⚡ Product: https://ctread.com
 
