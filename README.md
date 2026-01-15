@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Next.js AI
 - 📫 How to reach me: https://bai.tools
-- 😄 Product: https://aimusic.one 
+- 😄 Product: https://vadu.ai 
 - ⚡ Product: https://ctread.com
 
